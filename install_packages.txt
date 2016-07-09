@@ -1,0 +1,20 @@
+AdvancedNewFile
+All Autocomplete
+AutoFileName
+Better CoffeeScript
+Compare Side-By-Side
+DocBlock
+Emmet
+Fenom
+FTPSync
+GitGutter
+HTML-CSS-JS-Prettify
+Jade
+JavaScript Completions
+Markdown Extended
+Markdown Preview
+PlainTasks
+Smarty
+Stylus
+Super Calculator
+Terminal
