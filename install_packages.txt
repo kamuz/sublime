@@ -18,3 +18,4 @@ Smarty
 Stylus
 Super Calculator
 Terminal
+TypeScript
