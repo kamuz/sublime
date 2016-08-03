@@ -11,11 +11,10 @@ GitGutter
 HTML-CSS-JS-Prettify
 Jade
 JavaScript Completions
+LESS
 Markdown Extended
-Markdown Preview
 PlainTasks
 Smarty
 Stylus
-Super Calculator
 Terminal
 TypeScript
