@@ -2,6 +2,7 @@ AdvancedNewFile
 All Autocomplete
 AutoFileName
 Better CoffeeScript
+Bootstrap 3 Snippets
 Compare Side-By-Side
 DocBlock
 Emmet
@@ -18,3 +19,4 @@ Smarty
 Stylus
 Terminal
 TypeScript
+UIkit autocomplete
