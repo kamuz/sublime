@@ -1,4 +1,5 @@
 AdvancedNewFile
+Agila Theme
 All Autocomplete
 AutoFileName
 Better CoffeeScript
