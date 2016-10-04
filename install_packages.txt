@@ -8,7 +8,7 @@ GitGutter
 HTML-CSS-JS-Prettify
 Jade
 LESS
-Markdown Extended
+MarkdownHighlighting
 PlainTasks
 Smarty
 Stylus
