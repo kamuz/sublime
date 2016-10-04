@@ -1,23 +1,16 @@
-AdvancedNewFile
-Agila Theme
-All Autocomplete
 AutoFileName
-Better CoffeeScript
-Bootstrap 3 Snippets
-Compare Side-By-Side
-DocBlock
+DocBlockr
 Emmet
+Evernote
 Fenom
 FTPSync
 GitGutter
 HTML-CSS-JS-Prettify
 Jade
-JavaScript Completions
 LESS
 Markdown Extended
 PlainTasks
 Smarty
 Stylus
 Terminal
-TypeScript
 UIkit autocomplete
