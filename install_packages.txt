@@ -5,7 +5,7 @@ Evernote
 Fenom
 FTPSync
 GitGutter
-HTML-CSS-JS-Prettify
+HTML-CSS-JS Prettify
 Jade
 LESS
 MarkdownHighlighting
