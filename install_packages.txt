@@ -1,16 +1,1 @@
-AutoFileName
-DocBlockr
-Emmet
-Evernote
-Fenom
-FTPSync
-GitGutter
-HTML-CSS-JS Prettify
-Jade
-LESS
-MarkdownHighlighting
-PlainTasks
-Smarty
-Stylus
-Terminal
-UIkit autocomplete
+AllAutocomplete,AutoFileName,DocBlockr,Emmet,Evernote,Fenom,FTPSync,GitGutter,HTML-CSS-JS Prettify,Jade,LESS,MarkdownHighlighting,PHP Companion,PlainTasks,Smarty,Stylus,Terminal,UIkit autocomplete
