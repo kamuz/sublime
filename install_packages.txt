@@ -1,1 +1,1 @@
-All Autocomplete, AutoFileName, DocBlockr, Emmet, Evernote, Fenom, FTPSync, GitGutter, HTML-CSS-JS Prettify, Jade, LESS, Markdown Preview, MarkdownHighlighting, PHP Companion, PHP-Twig, PlainTasks, Smarty, Stylus, Terminal, UIkit autocomplete
+All Autocomplete, AutoFileName, DocBlockr, Emmet, Evernote, Fenom, FTPSync, Git, GitGutter, HTML-CSS-JS Prettify, Jade, LESS, Markdown Preview, MarkdownHighlighting, PHP Companion, PHP-Twig, PlainTasks, Smarty, Stylus, Terminal, UIkit autocomplete
