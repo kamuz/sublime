@@ -399,7 +399,7 @@
 				<string>#A9B7C6</string>
 			</dict>
 		</dict>
-		<dict>
+		<!-- <dict>
 			<key>name</key>
 			<string>Invalid</string>
 			<key>scope</key>
@@ -413,7 +413,7 @@
 				<key>foreground</key>
 				<string>#F8F8F0</string>
 			</dict>
-		</dict>
+		</dict> -->
 		<dict>
 			<key>name</key>
 			<string>Invalid deprecated</string>
