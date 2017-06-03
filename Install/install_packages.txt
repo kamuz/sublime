@@ -1,4 +1,5 @@
 A File Icon,
+AdvancedNewFile
 AutoFileName,
 Bootstrap 3 Autocomplete,
 Console Wrap,
