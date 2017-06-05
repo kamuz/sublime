@@ -1,13 +1,17 @@
 {
-	"always_show_minimap_viewport": true,
+	"always_show_minimap_viewport": false,
 	"auto_complete": false,
 	"auto_find_in_selection": true,
-	"color_scheme": "Packages/Color Scheme - Default/Solarized (Light).tmTheme",
 	"draw_white_space": "all",
-	"font_face": "Courier New",
+	"font_face": "Consolas",
 	"font_options":
 	[
 		"no_bold"
+	],
+	"folder_exclude_patterns":
+	[
+		".git",
+		".idea"
 	],
 	"font_size": 13,
 	"highlight_modified_tabs": true,
