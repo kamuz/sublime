@@ -1,4 +1,5 @@
 [
-  {"keys": ["ctrl+["], "command": "exit_insert_mode"},
-  {"keys": ["ctrl+alt+p"], "command": "prompt_select_workspace"}
+  { "keys": ["ctrl+["], "command": "exit_insert_mode" },
+  { "keys": ["ctrl+alt+p"], "command": "prompt_select_workspace" },
+  { "keys": ["ctrl+space"], "command": "auto_complete" },
 ]
