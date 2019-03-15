@@ -1,16 +1,10 @@
 A File Icon,
-Babel,
 DocBlockr,
 Emmet,
 Evernote,
 HTML-CSS-JS Prettify,
 Increment Selection,
-Laravel Blade Highlighter,
-Package Control,
-Random Everything,
 Sass,
 SFTP,
 SideBarEnhancements,
-Terminal,
-Twig,
-Vue Syntax Highlight
+Terminal
