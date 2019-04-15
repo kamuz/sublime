@@ -1,7 +1,4 @@
-A File Icon,
-DocBlockr,
 Emmet,
-Evernote,
 HTML-CSS-JS Prettify,
 Increment Selection,
 Sass,
