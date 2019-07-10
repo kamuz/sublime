@@ -1,3 +1,4 @@
+Alignment,
 Emmet,
 HTML-CSS-JS Prettify,
 Increment Selection,
