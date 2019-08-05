@@ -1,8 +1,1 @@
-Alignment,
-Emmet,
-HTML-CSS-JS Prettify,
-Increment Selection,
-Sass,
-SFTP,
-SideBarEnhancements,
-Terminal
+Alignment,Emmet,HTML-CSS-JS Prettify,Increment Selection,LESS,Sass,SFTP,SideBarEnhancements,Terminal
