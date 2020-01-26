@@ -2,9 +2,13 @@
 	"always_show_minimap_viewport": false,
 	"auto_complete": false,
 	"auto_find_in_selection": true,
-	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
 	"draw_white_space": "all",
 	"fallback_encoding": "Cyrillic (Windows 1251)",
+	"file_exclude_patterns":
+	[
+		"*.sublime-workspace",
+		"*.sublime-project"
+	],
 	"folder_exclude_patterns":
 	[
 		"node_modules",
@@ -13,10 +17,47 @@
 	"font_size": 11,
 	"ignored_packages":
 	[
+		"ActionScript",
+		"AppleScript",
+		"ASP",
+		"Batch File",
+		"C#",
+		"C++",
+		"Clojure",
+		"D",
+		"Diff",
+		"Erlang",
+		"Git Formats",
+		"Go",
+		"Graphviz",
+		"Groovy",
+		"Haskell",
+		"Java",
+		"JavaScript",
+		"LaTeX",
+		"Lisp",
+		"Lua",
+		"Makefile",
+		"Markdown",
+		"Matlab",
+		"Objective-C",
+		"OCaml",
+		"Pascal",
+		"Perl",
+		"Python",
+		"R",
+		"Rails",
+		"RestructuredText",
+		"Ruby",
+		"Rust",
+		"Scala",
+		"TCL",
+		"Textile"
 	],
 	"show_definitions": false,
 	"show_encoding": true,
 	"tab_size": 4,
+	"theme": "Default.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"update_check": false
 }
