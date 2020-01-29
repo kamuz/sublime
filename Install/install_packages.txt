@@ -1,1 +1,14 @@
-Alignment,DocBlockr,Emmet,HTML-CSS-JS Prettify,Increment Selection,LESS,Markdown Extended,PlainTasks,Requester,Sass,SFTP,SideBarEnhancements,Terminal
+Alignment,
+ColorHelper
+DocBlockr,
+Emmet,
+HTML-CSS-JS Prettify,
+Increment Selection,
+LESS,
+Markdown Extended,
+PlainTasks,
+Requester,
+Sass,
+SFTP,
+SideBarEnhancements,
+Terminal
