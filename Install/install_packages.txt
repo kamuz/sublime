@@ -1,13 +1,14 @@
 Alignment,
-ColorHelper
+Babel,
+ColorHelper,
 DocBlockr,
+EasyMotion,
 Emmet,
-HTML-CSS-JS Prettify,
 Increment Selection,
-LESS,
 Markdown Extended,
 Requester,
 Sass,
 SFTP,
 SideBarEnhancements,
-Terminal
+Terminal,
+Translit,
