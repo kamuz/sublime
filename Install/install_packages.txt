@@ -1,5 +1,6 @@
 Alignment,
 Babel,
+CodeFormatter,
 ColorHelper,
 DocBlockr,
 Emmet,
@@ -9,4 +10,4 @@ Requester,
 Sass,
 SFTP,
 SideBarEnhancements,
-Terminal
+Terminal,
