@@ -53,7 +53,5 @@
 	"show_definitions": false,
 	"show_encoding": true,
 	"tab_size": 4,
-	"theme": "Default.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"update_check": false
 }
