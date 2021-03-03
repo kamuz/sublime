@@ -1,6 +1,4 @@
 Babel,
-CodeFormatter,
-eCSStractor,
 Emmet,
 Increment Selection,
 Sass,
