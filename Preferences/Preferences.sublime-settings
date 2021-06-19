@@ -60,5 +60,7 @@
 	"tab_size": 4,
 	"translate_tabs_to_spaces": false,
 	"trim_trailing_white_space_on_save": true,
-	"update_check": false
+	"update_check": false,
+	"show_git_status": false,
+	"mini_diff": false,
 }
