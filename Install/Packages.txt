@@ -1,4 +1,3 @@
-Babel,
 Emmet,
 Increment Selection,
 Sass,
