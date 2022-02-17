@@ -17,7 +17,6 @@
 		".idea",
 		".git"
 	],
-	"font_size": 11,
 	"ignored_packages":
 	[
 		"ActionScript",
@@ -61,6 +60,6 @@
 	"translate_tabs_to_spaces": false,
 	"trim_trailing_white_space_on_save": true,
 	"update_check": false,
-	"show_git_status": false,
-	"mini_diff": false,
+	"file_tab_style": "angled",
+	"caret_style": "blink",
 }
