@@ -1,3 +1,4 @@
+EasyMotion,
 Emmet,
 Increment Selection,
 LSP,
